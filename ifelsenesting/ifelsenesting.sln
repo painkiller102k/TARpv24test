@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelsenesting", "ifelsenesting\ifelsenesting.csproj", "{D55FB220-4943-4367-A3F1-DAF626349EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55FB220-4943-4367-A3F1-DAF626349EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55FB220-4943-4367-A3F1-DAF626349EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55FB220-4943-4367-A3F1-DAF626349EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55FB220-4943-4367-A3F1-DAF626349EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E581D94B-84FF-4BC1-9F1C-9BB3EC15D201}
+	EndGlobalSection
+EndGlobal
