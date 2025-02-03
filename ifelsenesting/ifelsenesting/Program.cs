@@ -6,13 +6,13 @@
         {
             Console.WriteLine("Number Control!");
 
-            int number = 189;
+            int number = 200;
 
             if (number > 189)
             {
                 Console.WriteLine("Number is bigger");
 
-                if (number > 190 && number < 200)
+                if (number > 190 && number <= 200)
                 {
                     Console.WriteLine("Number is between 190 and 200");
                 }
